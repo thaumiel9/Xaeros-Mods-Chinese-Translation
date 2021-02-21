@@ -15,4 +15,5 @@ Thaumiel9的个人翻译，非专业翻译。
 ## 相关链接
 
 + [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-+ [Better-PVP-Translations](https://github.com/thexaero/Better-PVP-Translations)
++ [Better PVP Translations](https://github.com/thexaero/Better-PVP-Translations)
++ [Lang to JSON Converter](https://www.tterrag.com/lang2json)
