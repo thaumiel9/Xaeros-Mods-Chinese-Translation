@@ -1,6 +1,6 @@
 # Xaero's Minimap 中文翻译语言文件
 
-[English](./README.md) | [简体中文]
+[English](./README.md) | 简体中文
 
 ## 简介
 
