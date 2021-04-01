@@ -421,4 +421,4 @@ gui.xaero_minimap_frame_color=边框颜色
 gui.xaero_box_minimap_frame_color=非默认颜色边框样式的小地图的边框颜色.
 gui.xaero_minimap_frame_default=默认
 gui.xaero_minimap_frame_colored_thick=彩色
-gui.xaero_minimap_frame_colored_thin=浅色
+gui.xaero_minimap_frame_colored_thin=浅彩色
