@@ -444,3 +444,4 @@ effect.xaerominimap.no_entity_radar_beneficial=无实体雷达
 effect.xaerominimap.no_waypoints_beneficial=无路径点
 effect.xaerominimap.no_cave_maps_beneficial=无洞穴地图
 gui.xaero_radar_item_frames=用点显示物品展示框
+gui.xaero_show_dimension_name=显示当前维度
