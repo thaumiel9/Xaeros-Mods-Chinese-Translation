@@ -445,3 +445,5 @@ effect.xaerominimap.no_waypoints_beneficial=无路径点
 effect.xaerominimap.no_cave_maps_beneficial=无洞穴地图
 gui.xaero_radar_item_frames=用点显示物品展示框
 gui.xaero_show_dimension_name=显示当前维度
+gui.xaero_unknown_biome=未知生物群系
+gui.xaero_light_value=光照: %d 
