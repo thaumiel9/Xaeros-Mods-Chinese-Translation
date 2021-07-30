@@ -10,7 +10,7 @@ For personal learning use only.
 
 ## How To Use
 
-Add to `Xaeros_Minimap_XXX.jar\assets\xaerobetterpvp\lang\zh_cn.json`
+Add/Replace `Xaeros_Minimap_XXX.jar\assets\xaerobetterpvp\lang\zh_cn.json`
 
 ## Related Links
 
