@@ -10,7 +10,7 @@ Thaumiel9的个人翻译，非专业翻译。
 
 ## 如何使用
 
-替换 `Xaeros_Minimap_XXX.jar\assets\xaerobetterpvp\lang\zh_cn.json`
+添加/替换 `Xaeros_Minimap_XXX.jar\assets\xaerobetterpvp\lang\zh_cn.json`
 
 ## 相关链接
 
