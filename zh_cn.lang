@@ -548,3 +548,6 @@ gui.xaero_north_compass_color=指北针颜色
 gui.xaero_north_compass_color_default=默认
 gui.xaero_category_add_to_list_custom=确认自定义输入: %1$s
 gui.xaero_box_category_list_add=支持实体名称或模式带有特殊字符 * ) ( 和 |. \n \n * - 匹配任何东西. \n )( - 括号, 主要用于 |. \n | - 用于匹配同一位置不同顺序的 OR 运算符. \n \n 例如:  \n minecraft:creeper \n minecraft:zombie(_villager|_horse) - 僵尸村民和马. \n minecraft:a*l - 任何以"a"开头并以"l"结尾的原版实体.
+gui.xaero_using_custom_subworld=路径点: %1$s
+gui.xaero_hide_minimap_under_f3=按下F3时隐藏
+gui.xaero_box_hide_minimap_under_f3=在启用F3调试界面时隐藏小地图.
