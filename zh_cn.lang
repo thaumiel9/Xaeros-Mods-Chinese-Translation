@@ -564,3 +564,4 @@ gui.xaero_manual_cave_mode=手动洞穴模式
 gui.xaero_manual_cave_mode_start=手动洞穴模式起始Y
 gui.xaero_box_manual_cave_mode_start=启用手动洞穴模式时, 从哪个Y等级开始映射方块. 手动洞穴模式可以通过绑定按键进行切换. 对于 "自动" 选项, 同左边完全一致.
 gui.xaero_manual_cave_mode_start_auto=自动
+gui.xaero_chunk_grid_line_width=区块网格线宽度
