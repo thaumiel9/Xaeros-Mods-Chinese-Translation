@@ -1,4 +1,4 @@
-# Xaeros Minimap Chinese Translation
+# Xaeros Mods Chinese Translation
 
 English | [简体中文](./README-CN.md)
 
@@ -12,7 +12,9 @@ For personal learning use only.
 
 <del>Add/Replace `Xaeros_Minimap_XXX.jar\assets\xaerobetterpvp\lang\zh_cn.json`</del>
 
-Download `Xaeros_Minimap_XXX.CHS.jar` and enjoy it!
+<del>Download `Xaeros_Minimap_XXX.CHS.jar` and enjoy it!</del>
+
+Download `Xaeros_Minimap_XXX.CHS.jar` or `XaerosWorldMap_XXX.CHS.jar` and enjoy it!
 
 ## Related Links
 
