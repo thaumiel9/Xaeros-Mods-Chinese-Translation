@@ -384,6 +384,7 @@ gui.xaero_waypoint_shared=%1$s 分享了路径点: "%2$s"! §2§n[添加]
 gui.xaero_waypoint_shared_dimension=%1$s 分享了路径点: "%2$s" 坐标: %3$s! §2§n[添加]
 gui.xaero_waypoint_unknown_dimension=未知的维度
 gui.xaero_uses_worldmap_value=设置的值取自世界地图Mod设置!
+gui.xaero_uses_worldmap_hard_value=使用世界地图的区块时无法修改设置!
 gui.xaero_dots_style=实体的点样式
 gui.xaero_dots_style_default=默认
 gui.xaero_dots_style_legacy=传统
