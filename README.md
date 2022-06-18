@@ -14,7 +14,7 @@ For personal learning use only.
 
 <del>Download `Xaeros_Minimap_XXX.CHS.jar` and enjoy it!</del>
 
-Download `Xaeros_Minimap_XXX.CHS.jar` or `XaerosWorldMap_XXX.CHS.jar` and enjoy it!
+Download `Xaeros_Minimap_XXX.CHS.jar` or/and `XaerosWorldMap_XXX.CHS.jar` and enjoy it!
 
 ## Related Links
 
