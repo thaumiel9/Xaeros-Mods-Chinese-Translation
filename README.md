@@ -19,5 +19,5 @@ Download `Xaeros_Minimap_XXX.CHS.jar` or/and `XaerosWorldMap_XXX.CHS.jar` and en
 ## Related Links
 
 + [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-+ [Better PVP Translations](https://github.com/thexaero/Better-PVP-Translations)
++ [Xaero Minimap Translations](https://github.com/thexaero/xaero-minimap-translations)
 + [Lang to JSON Converter](https://www.tterrag.com/lang2json)
