@@ -4,9 +4,13 @@ English | [简体中文](./README-CN.md)
 
 ## Introduction
 
-Personal translation by Thaumiel9, non-professional translation.
+<del>Personal translation by Thaumiel9, non-professional translation.</del>
 
-For personal learning use only.
+<del>For personal learning use only.</del>
+
+This mod already has an official Chinese translation.
+
+This repository will no longer be updated.
 
 ## How To Use
 
